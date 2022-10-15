@@ -1,6 +1,6 @@
 let clicks = 1;
 
-const TIMEOUT = 15000;
+const TIMEOUT = 10000;
 
 const display = document.querySelector('#display');
 const button = document.querySelector('#button');
